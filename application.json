@@ -1,0 +1,20 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#C7F3F0",
+  "slug": "zbyte",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1646336671,
+    "nanos": 774000000
+  },
+  "deleted": false
+}
